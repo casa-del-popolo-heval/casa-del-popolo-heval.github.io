@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: corteo-pap-banner.jpg
+  image_fullwidth: cdph-banner.jpg
 widget1:
   title: "Attività"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
@@ -41,7 +41,7 @@ permalink: /index.html
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
 #
-homepage: true
+homepage: false
 ---
 
 [![Aderisci a Potere al Popolo!](../../images/aderisci-banner.jpg)](https://poterealpopolo.org/notizie/news-e-media/2026/04/25/cambiamo-tutto-parte-campagna-adesioni-2026/)
