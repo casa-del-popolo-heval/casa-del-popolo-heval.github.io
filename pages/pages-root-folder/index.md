@@ -41,7 +41,7 @@ permalink: /index.html
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
 #
-homepage: false
+homepage: true
 ---
 
 [![Aderisci a Potere al Popolo!](../../images/aderisci-banner.jpg)](https://poterealpopolo.org/notizie/news-e-media/2026/04/25/cambiamo-tutto-parte-campagna-adesioni-2026/)
