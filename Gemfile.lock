@@ -61,7 +61,7 @@ GEM
       sass-embedded (~> 1.75)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    json (2.19.7)
+    json (2.7.2)
     kramdown (2.5.2)
       rexml (>= 3.4.4)
     kramdown-parser-gfm (1.1.0)
@@ -112,6 +112,7 @@ DEPENDENCIES
   jekyll-asciidoc
   jekyll-gist
   jekyll-paginate
+  json (= 2.7.2)
 
 BUNDLED WITH
    2.4.20
