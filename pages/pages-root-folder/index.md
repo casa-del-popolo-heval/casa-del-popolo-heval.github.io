@@ -5,6 +5,7 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
+show_sidebar: false
 header:
   image_fullwidth: cdph-super-banner.jpg
 widget1:
