@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: cdph-banner.jpg
+  image_fullwidth: cdph-super-banner.jpg
 widget1:
   title: "Attività"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
