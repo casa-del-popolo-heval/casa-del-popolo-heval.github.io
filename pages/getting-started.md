@@ -5,7 +5,7 @@ title               : "Cos'è la Casa del Popolo Heval?"
 subheadline         : "Ci presentiamo meglio"
 teaser              : "This step-by-step guide helps you to customize Feeling Responsive to your needs."
 header:
-   image_fullwidth  : "header_homepage_13.jpg"
+   image_fullwidth  : "banner-chi-siamo.jpg"
 permalink           : "/getting-started/"
 ---
 Come Potere al Popolo abbiamo preso questo spazio per aprire finalmente la nostra Casa del Popolo anche a Livorno.
