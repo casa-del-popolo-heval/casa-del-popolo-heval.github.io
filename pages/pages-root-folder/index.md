@@ -11,17 +11,17 @@ widget1:
   title: "Attività"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: widget-1-302x182.jpg
-  text: 'Scopri le attività e gli eventi ospitati da questo spazio'
+  text: 'Scopri le attività e gli eventi ospitati dalla casa del popolo Heval'
 widget2:
   title: "Biblioteca"
   url: '/biblioteca/'
   image: start-video-feeling-responsive-302x182.jpg
-  text: 'Scopri i libri che puoi prendere in prestito dalla nostra biblioteca'
+  text: 'Scopri i libri che puoi prendere in prestito dalla Biblioteca Heval'
 widget3:
   title: "Realtà"
   url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
-  text: 'Maggiori informazioni sulle realtà che vivono lo spazio'
+  image: realta.jpg
+  text: 'Maggiori informazioni sulle realtà che vivono la casa del popolo Heval'
 #
 # Use the call for action to show a button on the frontpage
 #

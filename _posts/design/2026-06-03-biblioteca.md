@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Catalogo della Biblioteca"
+title: "Catalogo della Biblioteca Heval"
 permalink: /biblioteca/
 ---
 
