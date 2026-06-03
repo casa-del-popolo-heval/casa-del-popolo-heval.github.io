@@ -5,7 +5,6 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-show_sidebar: false
 header:
   image_fullwidth: cdph-super-banner.jpg
 widget1:
@@ -15,9 +14,9 @@ widget1:
   text: 'Scopri le attività e gli eventi ospitati da questo spazio'
 widget2:
   title: "Biblioteca"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
+  url: '/biblioteca/'
+  image: start-video-feeling-responsive-302x182.jpg
   text: 'Scopri i libri che puoi prendere in prestito dalla nostra biblioteca'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Realtà"
   url: 'https://github.com/Phlow/feeling-responsive'
