@@ -33,10 +33,12 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
+  url: '/donazioni/'
   text: Dona alla casa del popolo ›
   style: alert
+  image: dona-alla-cdp.jpg
 permalink: /index.html
+
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
