@@ -20,7 +20,7 @@ widget2:
 widget3:
   title: "Realtà"
   url: 'https://github.com/Phlow/feeling-responsive'
-  image: realta.png
+  image: copertina-realta.jpg
   text: 'Maggiori informazioni sulle realtà che vivono la casa del popolo Heval'
 #
 # Use the call for action to show a button on the frontpage
