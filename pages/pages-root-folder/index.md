@@ -33,10 +33,9 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: '/donazioni/'
+  url: '/donacdp/'
   text: Dona alla casa del popolo ›
   style: alert
-  image: dona-alla-cdp.jpg
 permalink: /index.html
 
 #
