@@ -26,7 +26,3 @@ Ci sarà inoltre uno spazio di ascolto da parte della nostra consigliera comunal
 Il nostro progetto prevede anche di far partire diversi corsi, attività e dibattiti che saranno solo rimandati al fine di prevenire la diffusione del virus Covid-19.
 
 Per questi motivi tutto quello che avremmo voluto dirvi e raccontarvi di persona su questo spazio, con un'inaugurazione con dibattiti e momenti più ricreativi, abbiamo pensato di metterlo per scritto sui fogli che troverete nella CdP a spiegazione dell'idea e dei valori che vogliamo seguire.
-
-<a href="https://poterealpopolo.org/" target="_blank">
-  <img src="../../images/aderisci-banner.jpg" alt="Banner Aderisci" rel="noopener noreferrer">
-</a>

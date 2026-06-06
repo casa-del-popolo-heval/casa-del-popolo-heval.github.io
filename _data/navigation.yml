@@ -7,7 +7,6 @@
   side: left
 
 - title: "Dove andiamo?"
-  url: "/dove-andiamo/"
   side: left
   dropdown:
   - title: "Da dove veniamo?"
