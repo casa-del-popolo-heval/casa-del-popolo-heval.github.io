@@ -9,7 +9,7 @@ header:
   image_fullwidth: cdph-super-banner.jpg
 widget1:
   title: "Attività"
-  url: '/attivita/'
+  url: '/dove-andiamo/attivita/'
   image: widget-1-302x182.jpg
   text: 'Scopri le attività e gli eventi ospitati dalla casa del popolo Heval'
 widget2:
@@ -19,7 +19,7 @@ widget2:
   text: 'Scopri i libri che puoi prendere in prestito dalla Biblioteca Heval'
 widget3:
   title: "Realtà"
-  url: '/realta/'
+  url: '/dove-andiamo/realta/'
   image: copertina-realta.jpg
   text: 'Maggiori informazioni sulle realtà che vivono la casa del popolo Heval'
 #
