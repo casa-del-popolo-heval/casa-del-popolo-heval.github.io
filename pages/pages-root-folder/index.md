@@ -9,7 +9,7 @@ header:
   image_fullwidth: cdph-super-banner.jpg
 widget1:
   title: "Attività"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  url: '/attivita/'
   image: widget-1-302x182.jpg
   text: 'Scopri le attività e gli eventi ospitati dalla casa del popolo Heval'
 widget2:
@@ -45,4 +45,4 @@ permalink: /index.html
 homepage: true
 ---
 
-[![Aderisci a Potere al Popolo!](../../images/aderisci-banner.jpg)](https://poterealpopolo.org/notizie/news-e-media/2026/04/25/cambiamo-tutto-parte-campagna-adesioni-2026/)
+[![Aderisci a Potere al Popolo!](../../images/aderisci-banner.jpg)](https://poterealpopolo.org/notizie/news-e-media/2026/04/25/cambiamo-tutto-parte-campagna-adesioni-2026/ target="_blank" rel="noopener")
