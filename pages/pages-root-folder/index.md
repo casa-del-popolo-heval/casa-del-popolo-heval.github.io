@@ -13,13 +13,13 @@ widget1:
   image: widget-1-302x182.jpg
   text: 'Scopri le attività e gli eventi ospitati dalla casa del popolo Heval'
 widget2:
-  title: "Biblioteca"
+  title: "Biblioteca Heval"
   url: '/biblioteca/'
   image: start-video-feeling-responsive-302x182.jpg
   text: 'Scopri i libri che puoi prendere in prestito dalla Biblioteca Heval'
 widget3:
   title: "Realtà"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  url: '/realta/'
   image: copertina-realta.jpg
   text: 'Maggiori informazioni sulle realtà che vivono la casa del popolo Heval'
 #
