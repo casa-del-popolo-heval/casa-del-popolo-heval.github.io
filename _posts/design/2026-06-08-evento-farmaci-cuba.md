@@ -1,0 +1,31 @@
+---
+layout: page
+sidebar: right
+subheadline: Farmaci per Cuba
+title:  "Raccolta farmaci per Cuba"
+teaser: "CONCLUSA LA PRIMA CAMPAGNA DI SOLIDARIETÀ PER CUBA SOCIALISTA"
+permalink: /dove-andiamo/evento-farmaci-cuba/
+show_meta: false
+breadcrumb: true
+tags:
+    - eventi
+categories:
+    - eventi
+image:
+    thumb: evento-farmaci-thumbnail.png
+    title: Copertina evento farmaci
+---
+
+
+ Ieri in Casa del Popolo abbiamo concluso la raccolta di farmaci, dispositivi tecnologici e fondi per Cuba stretta dal bloqueo criminale di Trump <br>
+
+️Abbiamo raccolto decine di farmaci da portare direttamente sull’isola e fino a 180€ da inviare alla raccolta fondi nazionale “NON POSSONO BLOCCARE IL SOLE” per comprare pannelli solari e aggirare così l’embargo totale di combustibili imposto recentemente <br>
+
+“Medicos y no bombas” disse Fidel Castro in un discorso del 2003. <br>
+Medici, non bombe può essere preso come il riassunto della postura che Cuba ha deciso fin dall’inizio di assumere sia sul piano interno che su quello internazionale. <br>
+Il modello del socialismo cubano infatti, al contrario del bellicismo made in USA, ha sempre perseguito il benessere della propria gente e l’aiuto degli ultimi del mondo, pur nelle difficoltà di una piccola isola sotto il blocco commerciale della prima potenza mondiale. <br>
+Persino l’Italia, paese del G7, ha ricevuto l’aiuto di centinaia di medici cubani nel momento più grave della Pandemia e tuttora la sanità calabrese si arregge con le unghie e con i denti proprio grazie a questi medici <br>
+
+La raccolta continua da remoto: segui la pagina per scoprire come <br> <br>
+
+<h2> Cuba non è sola <br> Attiviamo la solidarietà <br> Cambiamo tutto! </h2>
