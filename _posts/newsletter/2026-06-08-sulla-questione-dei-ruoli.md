@@ -18,8 +18,8 @@ image:
 ---
 
 
-Pubblichiamo come primo articolo della nostra Newsletter un estratto del testo di <strong>Toni Cade Bambara</strong> <a href="https://www.progettometi.org/analisi/sulla-questione-dei-ruoli-1970/" target="_blank" rel="noopener noreferrer">“Sulla questione dei ruoli”</a> ,tradotto e diffuso dal <a href="https://www.progettometi.org/" target="_blank" rel="noopener noreferrer">Progetto Me-Ti.</a> <br>
-Invitiamo i lettori a visitare il loro sito ricco di articoli interessanti e gratuiti. <br><br>
+<h5><strong>Pubblichiamo come primo articolo della nostra Newsletter un estratto del testo di <strong>Toni Cade Bambara</strong> <a href="https://www.progettometi.org/analisi/sulla-questione-dei-ruoli-1970/" target="_blank" rel="noopener noreferrer">“Sulla questione dei ruoli”</a> ,tradotto e diffuso dal <a href="https://www.progettometi.org/" target="_blank" rel="noopener noreferrer">Progetto Me-Ti.</a> <br>
+Invitiamo i lettori a visitare il loro sito ricco di articoli interessanti e gratuiti. </strong></h5><br><br>
 
 <p class="teaser">Traduciamo e diffondiamo un estratto del testo di Toni Cade Bambara “Sulla questione dei ruoli” (pubblicato originariamente in “Black Woman: An Anthology”, 1970, tratto da un saggio autobiografico, “The Scattered Sopranoes”, presentato come lezione al Seminario sulla Donna Nera del Livingston College nel dicembre 1969). Le ragioni per le quali ci sembra importante rileggere questa analisi ancora attuale del rapporto tra generi, anche e soprattutto nei movimenti, sono essenzialmente due:</p>
 

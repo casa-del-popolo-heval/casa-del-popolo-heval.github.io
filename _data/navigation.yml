@@ -15,40 +15,13 @@
   - title: "Attività settimanali"
     url: "/dove-andiamo/attivita/"
   - title: "Dona"
-    url: "/dove-andiamo/donacdp/"
+    url: "/donacdp/"
   - title: "Eventi"
     url: "/eventi/"
   - title: "Newsletter"
-    url: "/newsletter"
-
-
-#- title: "Header Styles"
-#  url: "/headers/"
-#  side: left
-#  dropdown:
-#  - title: "Header with Full-Width-Image"
-#    url: "/design/header-full-width-image/"
-#  - title: "Header with Image and Pattern"
-#    url: "/design/header-image-pattern/"
-#  - title: "Header with image and color"
-#    url: "/design/header-image-color/"
-#  - title: "Header Only With Logo"
-#    url: "/design/header-logo-only/"
-#  - title: "Header With Text"
-#    url: "/design/header-with-text/"
-#  - title: "No Header"
-#    url: "/design/no-header/"
-#  - title: "No Header but Image"
-#    url: "/design/no-header-but-image/"
-
-#- title: Documentation
-#  url: "/documentation/"
-#  side: left
-#  dropdown:
-#  - title: "Changelog"
-#    url: "/changelog/"
-#  - title: "Roadmap"
-#    url: "/roadmap/"
+    url: "/newsletter/"
+  - title: "Biblioteca"
+    url: "/biblioteca/"
 
 - title: Eventi
   url: "/eventi/"
@@ -64,9 +37,10 @@
   - title: "Archivio Newsletter"
     url: "/newsletter/archivio/"
 
-#- title: "Search"
-#  url: "/search/"
-#  side: right
+###Lato destro
+- title: "Biblioteca"
+  url: "/biblioteca/"
+  side: right
 
 - title: "Contatti"
   url: "/contatti/"

@@ -87,7 +87,7 @@ format: frontpage
             {% endfor %}
         </div><div class="medium-6 columns">
             <p><strong>{{ site.data.language.more_articles }}</strong></p>
-            {% include list-posts entries='3' offset='1' %}
+            {% include list-posts entries='3' offset='1' category='articoli' %}
         </div></div>{% endunless %}
 
 
@@ -129,7 +129,7 @@ format: frontpage
             {% endfor %}
         </div><div class="medium-6 columns">
             <p><strong>Altri Eventi</strong></p>
-            {% include list-posts entries='3' offset='1' %}
+            {% include list-posts entries='3' offset='1' category='eventi' %}
         </div></div>{% endunless %}
 
 

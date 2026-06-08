@@ -33,4 +33,4 @@ Persino l’Italia, paese del G7, ha ricevuto l’aiuto di centinaia di medici c
 
 La raccolta continua da remoto: segui la <a href="https://www.instagram.com/_poterealpopololivorno/" target="_blank" rel="noopener noreferrer">nostra pagina instagram</a> per scoprire come <br>
 
-<h3> Cuba non è sola <br> Attiviamo la solidarietà <br> Cambiamo tutto! </h3>
+<h3 style="color: #B80F0F;"> Cuba non è sola <br> Attiviamo la solidarietà <br> Cambiamo tutto! </h3>

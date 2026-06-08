@@ -2,6 +2,8 @@
 layout: page
 title: "Catalogo della Biblioteca Heval"
 permalink: /biblioteca/
+header:
+   image_fullwidth: header_unsplash_8.jpg
 ---
 
 In questa pagina è possibile consultare l'elenco completo dei libri disponibili presso la nostra biblioteca.
