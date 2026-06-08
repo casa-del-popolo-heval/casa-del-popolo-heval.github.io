@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-    image:  "cdph-super-banner.jpg"
+    image:  "logohome.png"
     pattern:  "green.jpg"
 widget1:
   title: "Attività"
