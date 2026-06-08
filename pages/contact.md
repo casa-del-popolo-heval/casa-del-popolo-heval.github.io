@@ -1,9 +1,10 @@
 ---
 layout              : page
-title               : "Contact"
-meta_title          : "Contact and use our contact form"
-subheadline         : "Contact Form"
-teaser              : "Get in touch with me? Use the contact form."
-permalink           : "/contact/"
+title               : "Contatti"
+subheadline         : "Come contattarci"
+teaser: >
+  Potete contattarci scrivendo al nostro <strong><a href="https://www.instagram.com/cdpheval/" target="_blank" rel="noopener noreferrer">profilo instagram</a></strong>, al nostro <strong><a href="https://www.facebook.com/cdpheval" target="_blank" rel="noopener noreferrer">profilo facebook</a></strong>, oppure scrivendo un'email all'indirizzo: <br> <strong>associazioneheval.aps@gmail.com</strong>
+permalink: "/contatti/"
 ---
-If you need a fabulous contact form for your website, I suggest you use the free version of [Wufoo](http://www.wufoo.com/)
+![Gatti neri!](../../images/oriano-niccolai.jpg)
+<br>poster di <i>Oriano Niccolai</i>

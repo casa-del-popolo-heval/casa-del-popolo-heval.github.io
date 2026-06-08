@@ -44,5 +44,3 @@ permalink: /index.html
 #
 homepage: true
 ---
-
-[![Aderisci a Potere al Popolo!](../../images/aderisci-banner.jpg)](https://poterealpopolo.org/notizie/news-e-media/2026/04/25/cambiamo-tutto-parte-campagna-adesioni-2026/ target="_blank" rel="noopener")

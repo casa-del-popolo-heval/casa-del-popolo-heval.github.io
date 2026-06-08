@@ -14,10 +14,12 @@
     url: "/dove-andiamo/realta/"
   - title: "Attività settimanali"
     url: "/dove-andiamo/attivita/"
-  - title: "Page/Post"
-    url: "/design/page/"
+  - title: "Dona"
+    url: "/dove-andiamo/donacdp/"
   - title: "Eventi"
     url: "/eventi/"
+  - title: "Newsletter"
+    url: "/newsletter"
 
 
 #- title: "Header Styles"
@@ -66,6 +68,6 @@
 #  url: "/search/"
 #  side: right
 
-- title: "Contact"
-  url: "/contact/"
+- title: "Contatti"
+  url: "/contatti/"
   side: right

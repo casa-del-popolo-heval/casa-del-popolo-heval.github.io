@@ -15,6 +15,7 @@ categories:
 image:
     thumb: evento-farmaci-thumbnail.png
     title: evento-farmaci-title.jpg
+    homepage: evento-farmaci-title.jpg
 ---
 
 

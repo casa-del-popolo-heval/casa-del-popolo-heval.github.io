@@ -49,18 +49,18 @@ format: frontpage
     </div><!-- /.row -->
 {% endif %}
 
-
-
 {% comment %}
 *
-* First check, if there are any posts at all
+* SEZIONE ARTICOLI
+* First check, if there are any posts at all in 'articoli'
 *
 {% endcomment %}
 
-{% unless site.posts == empty %}
+{% unless site.categories.articoli == empty %}
+<div class="row"><div class="small-12 columns"><h2>Ultimi articoli</h2></div></div>
     <div class="row t30 b20 homepage">
         <div class="small-12 columns">
-            {% for post in site.posts limit:1 %}
+            {% for post in site.categories.articoli limit:1 %}
             {% if post.image.homepage %}
             <p>
                 <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="{{ post.title | escape_once }}"><img width="970" src="{{ site.urlimg }}{{ post.image.homepage }}" alt="{{ page.title | escape_once }}"></a>
@@ -72,16 +72,12 @@ format: frontpage
             </p>
             {% endif %}
             {% else post.image.homepage == NULL %}
-            <h2>{{ site.data.language.new_blog_entries }}</h2>
+            <h2>NUOVI ARTICOLI</h2>
             {% endif %}
             {% endfor %}
-        </div><!-- /.small-12.columns -->
-    </div><!-- /.row -->
-
-
-    <div class="row">
+        </div></div><div class="row">
         <div class="medium-6 columns">
-            {% for post in site.posts limit:1 %}
+            {% for post in site.categories.articoli limit:1 %}
             {% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %}
             <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
             <p>
@@ -89,15 +85,52 @@ format: frontpage
                 <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a>
             </p>
             {% endfor %}
-        </div><!-- /.medium-5.columns -->
-
-
-        <div class="medium-6 columns">
+        </div><div class="medium-6 columns">
             <p><strong>{{ site.data.language.more_articles }}</strong></p>
             {% include list-posts entries='3' offset='1' %}
-        </div><!-- /.medium-7.columns -->
-    </div><!-- /.row -->
-{% endunless %}
+        </div></div>{% endunless %}
+
+
+{% comment %}
+*
+* SEZIONE EVENTI
+* First check, if there are any posts at all in 'eventi'
+*
+{% endcomment %}
+
+{% unless site.categories.eventi == empty %}
+<div class="row"><div class="small-12 columns"><h2>Ultimi eventi</h2></div></div>
+    <div class="row t30 b20 homepage">
+        <div class="small-12 columns">
+            {% for post in site.categories.eventi limit:1 %}
+            {% if post.image.homepage %}
+            <p>
+                <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="{{ post.title | escape_once }}"><img width="970" src="{{ site.urlimg }}{{ post.image.homepage }}" alt="{{ page.title | escape_once }}"></a>
+            </p>
+
+            {% if post.image.caption_url and post.image.caption %}
+            <p class="text-right caption">
+                <a href="{{ post.image.caption_url }}">{{ post.image.caption }}</a>
+            </p>
+            {% endif %}
+            {% else post.image.homepage == NULL %}
+            <h2>NUOVI EVENTI</h2>
+            {% endif %}
+            {% endfor %}
+        </div></div><div class="row">
+        <div class="medium-6 columns">
+            {% for post in site.categories.eventi limit:1 %}
+            {% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %}
+            <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+            <p>
+                {% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% else post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
+                <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a>
+            </p>
+            {% endfor %}
+        </div><div class="medium-6 columns">
+            <p><strong>Altri Eventi</strong></p>
+            {% include list-posts entries='3' offset='1' %}
+        </div></div>{% endunless %}
 
 
 {% comment %}
@@ -108,4 +141,6 @@ format: frontpage
 
 <div class="row">
     {{ content }}
-</div><!-- /.row -->
+</div>```
+
+---
