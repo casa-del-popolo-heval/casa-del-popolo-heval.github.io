@@ -6,7 +6,8 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: cdph-super-banner.jpg
+    image:  "cdph-super-banner.jpg"
+    pattern:  "green.jpg"
 widget1:
   title: "Attività"
   url: '/dove-andiamo/attivita/'
