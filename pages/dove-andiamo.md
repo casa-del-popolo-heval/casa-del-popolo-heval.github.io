@@ -15,4 +15,5 @@ permalink: "/dove-andiamo/"
     </li>
   {% endif %} <!-- <--- FONDAMENTALE: Chiude il controllo prima di passare al post successivo -->
 {% endfor %}
+    <li> <a href="/eventi/">Eventi</a> </li>s
 </ul>
