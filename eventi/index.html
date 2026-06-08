@@ -1,0 +1,38 @@
+---
+layout: default
+format: blog-index
+title: "Eventi e Iniziative"
+permalink: /eventi/
+noindex: true
+---
+<div class="row">
+	<div class="medium-8 columns t30">
+		<!-- Ciclo modificato per mostrare SOLO la categoria eventi -->
+		{% for post in site.categories.eventi %}
+			<article class="post t20" style="margin-bottom: 40px;">
+				<header>
+					<p class="subheadline">{{ post.categories | join: ', ' | upcase }} – {{ post.subheadline | upcase }}</p>
+					<h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+				</header>
+
+				<div class="row">
+					{% if post.image.thumb %}
+					<div class="small-4 columns">
+						<img src="{{ site.urlimg }}{{ post.image.thumb }}" alt="{{ post.title }}">
+					</div>
+					<div class="small-8 columns">
+					{% else %}
+					<div class="small-12 columns">
+					{% endif %}
+						<p>{{ post.teaser }} <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">Leggi altro ›</a></p>
+					</div>
+				</div>
+			</article>
+			<hr>
+		{% endfor %}
+	</div><!-- /.medium-8.columns -->
+
+	<div class="medium-4 columns t30">
+		{% include _sidebar.html %}
+	</div><!-- /.medium-4.columns -->
+</div><!-- /.row -->

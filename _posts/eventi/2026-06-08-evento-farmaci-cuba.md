@@ -9,11 +9,12 @@ show_meta: false
 breadcrumb: true
 tags:
     - eventi
+    - PaP
 categories:
     - eventi
 image:
     thumb: evento-farmaci-thumbnail.png
-    title: Copertina evento farmaci
+    title: evento-farmaci-title.jpg
 ---
 
 

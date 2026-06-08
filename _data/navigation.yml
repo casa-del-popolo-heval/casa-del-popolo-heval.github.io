@@ -8,6 +8,7 @@
 
 - title: "Dove andiamo?"
   side: left
+  url: "/dove-andiamo/"
   dropdown:
   - title: "Da dove veniamo?"
     url: "/dove-andiamo/realta/"
@@ -23,8 +24,8 @@
     url: "/design/post-right-sidebar/"
   - title: "Page Full-Width"
     url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
+  - title: "Eventi"
+    url: "/eventi/"
   - title: "Video"
     url: "/design/video/"
   - title: "Gallery"
@@ -60,12 +61,12 @@
 #  - title: "Roadmap"
 #    url: "/roadmap/"
 
-- title: Blog
-  url: "/blog/"
+- title: Eventi
+  url: "/eventi/"
   side: left
   dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+  - title: "Archivio eventi"
+    url: "/eventi/archivio/"
 
 #- title: "Search"
 #  url: "/search/"
