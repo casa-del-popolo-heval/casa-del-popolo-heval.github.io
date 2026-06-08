@@ -55,6 +55,13 @@
   - title: "Archivio eventi"
     url: "/eventi/archivio/"
 
+- title: Newsletter
+  url: "/newsletter/"
+  side: left
+  dropdown:
+  - title: "Archivio Newsletter"
+    url: "/newsletter/archivio/"
+
 #- title: "Search"
 #  url: "/search/"
 #  side: right
