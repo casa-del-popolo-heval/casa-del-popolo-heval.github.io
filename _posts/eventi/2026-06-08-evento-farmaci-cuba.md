@@ -4,7 +4,7 @@ sidebar: right
 subheadline: Farmaci per Cuba
 title:  "Raccolta farmaci per Cuba"
 teaser: "<strong>Conclusa la prima campagna di solidarietà per Cuba socialista</strong>"
-permalink: /dove-andiamo/evento-farmaci-cuba/
+permalink: /eventi/evento-farmaci-cuba/
 show_meta: false
 breadcrumb: true
 tags:
