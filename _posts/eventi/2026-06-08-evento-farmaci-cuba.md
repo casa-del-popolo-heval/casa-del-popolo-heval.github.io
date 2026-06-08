@@ -16,6 +16,9 @@ image:
     thumb: evento-farmaci-thumbnail.png
     title: evento-farmaci-title.jpg
     homepage: evento-farmaci-title.jpg
+header:
+    image:  "logohome.png"
+    pattern:  "green.jpg"
 ---
 
 

@@ -6,6 +6,9 @@ title: "Dove andiamo?"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/dove-andiamo/"
+header:
+    image:  "logohome.png"
+    pattern:  "green.jpg"
 ---
 <ul>
 {% for post in site.posts %}
