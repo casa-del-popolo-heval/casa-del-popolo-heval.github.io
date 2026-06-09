@@ -24,7 +24,7 @@ credits: '<p>Creato con &hearts; da <a>Davide Amato</a> con <a href="http://jeky
 author: Davide Amato
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: "https://luciopasqui1-hub.github.io"
+url: "https://casa-del-popolo-heval.github.io/"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content
@@ -37,7 +37,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://luciopasqui1-hub.github.io/images/'
+urlimg: 'https://casa-del-popolo-heval.github.io/images/'
 
 
 # Logo size is 600x80 pixels
@@ -191,8 +191,8 @@ og_type                              : 'website'
 #
 
 socialmedia:
-    twitter   : phlow
-    facebook  : phlow.media
+    instagram   : cdpheval
+    facebook  : cdpheval
 
 
 #        ____  _
