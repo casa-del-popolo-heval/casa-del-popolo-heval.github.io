@@ -24,7 +24,7 @@ credits: '<p>Creato con &hearts; da <a>Davide Amato</a> con <a href="http://jeky
 author: Davide Amato
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: "https://casa-del-popolo-heval.github.io/"
+url: "https://casa-del-popolo-heval.github.io"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content
