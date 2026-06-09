@@ -37,6 +37,7 @@ callforaction:
   url: '/donacdp/'
   text: Dona alla casa del popolo ›
   style: alert
+  image: dona-alla-cdp.jpg
 permalink: /index.html
 
 #

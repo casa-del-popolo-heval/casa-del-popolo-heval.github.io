@@ -27,6 +27,9 @@ format: frontpage
 	{% if page.widget3.image or page.widget3.video or page.widget3.title %}
 		{% include _frontpage-widget.html widget=page.widget3 %}
 	{% endif %}
+  {% if page.widget4.image or page.widget4.video or page.widget4.title %}
+    {% include _frontpage-widget.html widget=page.widget4 %}
+  {% endif %}
 </div><!-- /.row -->
 
 
@@ -44,6 +47,12 @@ format: frontpage
 {% if page.callforaction %}
     <div class="row t60 b60">
         <div class="small-12 text-center columns">
+          {% comment %} Controlla se esiste un'immagine e la mostra {% endcomment %}
+            {% if page.callforaction.image %}
+                <div class="cfa-image-wrapper">
+                    <img src="{{ site.baseurl }}/images/{{ page.callforaction.image }}" alt="{{ page.callforaction.text }}" style="max-width: 100%; height: auto;">
+                </div> <br>
+            {% endif %}
             <a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ page.callforaction.url }}"{% if page.callforaction.url contains 'http' %} target="_blank" {% endif %}>{{ page.callforaction.text }}</a>
         </div><!-- /.small-12.columns -->
     </div><!-- /.row -->
