@@ -15,6 +15,9 @@ image:
     thumb: ora-della-resistenza-thumbnail.png
     title: ora-della-resistenza-title.png
     homepage: ora-della-resistenza-title.png
+header:
+    image:  "logohome.png"
+    pattern:  "green.jpg"
 ---
 
 <h5><strong>Pubblichiamo un altro articolo tradotto dal <a href="https://www.progettometi.org/" target="_blank" rel="noopener noreferrer">Progetto Me-Ti.</a>, che ci delizia con questo estratto dell'editoriale cubano La Tizza. <br>

@@ -15,6 +15,9 @@ image:
     thumb: sulla-questione-dei-ruoli-thumbnail.png
     title: sulla-questione-dei-ruoli-title.png
     homepage: sulla-questione-dei-ruoli-title.png
+header:
+    image:  "logohome.png"
+    pattern:  "green.jpg"
 ---
 
 
